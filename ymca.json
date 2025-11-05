@@ -1,0 +1,8 @@
+{
+  "university": "YMCA University",
+  "courses": [
+    { "name": "B.Tech CSE", "fees": "₹1,20,000/year" },
+    { "name": "MBA", "fees": "₹2,00,000/year" },
+    { "name": "B.Des", "fees": "₹90,000/year" }
+  ]
+}
