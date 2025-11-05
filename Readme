@@ -1,0 +1,14 @@
+Live URLs:
+- landingPage1: https://ymcalandingpage.vercel.app/
+- landingPage2: https://mdulandingpage.vercel.app/
+
+Tech Used:
+- React + Tailwind CSS
+- Pipedream Webhook
+- GitHub (for JSON APIs)
+- Vercel (deployment)
+
+Features:
+✅ Responsive design
+✅ Form integration with Pipedream
+
