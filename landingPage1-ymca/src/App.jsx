@@ -199,8 +199,8 @@ function App() {
           >
             <option value="">Course Interested</option>
             <option>B.Tech CSE</option>
-            <option>MBA</option>
-            <option>B.Des</option>
+            <option>BBA</option>
+            <option>BCA</option>
           </select>
           <select
             name="intake"
