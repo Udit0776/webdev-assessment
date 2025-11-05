@@ -1,0 +1,8 @@
+{
+  "university": "MDU University",
+  "courses": [
+    { "name": "B.Tech CSE", "fees": "₹1,40,000/year" },
+    { "name": "MBA", "fees": "₹2,20,000/year" },
+    { "name": "B.Des", "fees": "₹80,000/year" }
+  ]
+}
